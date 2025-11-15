@@ -100,7 +100,7 @@
 
   <!-- Photoshop (colored version) -->
   <a href="https://www.adobe.com/products/photoshop.html" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="40" height="40"  />
   </a>
 
   <!-- Illustrator -->
