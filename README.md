@@ -71,11 +71,10 @@ I'm always learning, building new projects, and exploring better ways to create 
     <img src="https://cdn.simpleicons.org/framer" width="40" height="40" alt="Framer Motion"/>
   </a>
 
-  <!-- Git -->
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/git/git-scm-icon.svg" width="40" height="40" alt="Git"/>
-  </a>
-
+ <!-- Git -->
+<a href="https://git-scm.com/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
+</a>
 </p>
 
 
