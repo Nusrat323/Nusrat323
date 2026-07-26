@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Nusrat Jahan Trisha</h1>
+<h1 align="center">Hi, I'm Nusrat Jahan Trisha</h1>
 
 <h3 align="center">
-🚀 Frontend Developer | GoHighLevel (GHL) & AI Automation Specialist
+Frontend Developer | GoHighLevel (GHL) & AI Automation Specialist
 </h3>
 
 <p align="center">
@@ -12,25 +12,32 @@ Building modern, responsive web experiences and smart automation systems that he
   <img src="https://komarev.com/ghpvc/?username=nusrat323&label=Profile%20views&color=0e75b6&style=flat" alt="nusrat323" /> 
 </p>
 
-<h2 align="center">👩‍💻 About Me</h2>
+<h2>About Me</h2>
 
-<p align="left">
-
-👋 Hi! I'm <strong>Nusrat Jahan Trisha</strong>, a Frontend Developer and GoHighLevel (GHL) & AI Automation Specialist passionate about building modern digital experiences and business automation systems.
-
-💻 As a <strong>Frontend Developer</strong>, I build clean, responsive, and user-friendly websites and landing pages using React.js, JavaScript, Tailwind CSS, HTML5, and CSS3.
-
-⚙️ As a <strong>GoHighLevel & AI Automation Specialist</strong>, I work with CRM setup, pipelines, workflow automation, lead management, appointment booking systems, email & SMS automation, AI-powered conversation systems, and automated follow-up workflows.
-
-🤖 I enjoy combining modern frontend development with smart automation to create solutions that improve user experience, streamline business operations, and help businesses manage and convert leads more efficiently.
-
-🚀 I'm always learning, building new projects, and exploring better ways to create impactful digital solutions.
-
+<p>
+Hi! I'm <strong>Nusrat Jahan Trisha</strong>, a Frontend Developer and GoHighLevel (GHL) & AI Automation Specialist passionate about building modern digital experiences and business automation systems.
 </p>
 
-<h2 align="left">🛠️ Skills & Technologies</h2>
+<p>
+As a <strong>Frontend Developer</strong>, I build clean, responsive, and user-friendly websites and landing pages using React.js, JavaScript, Tailwind CSS, HTML5, and CSS3.
+</p>
 
-<h3 align="left">🎨 Frontend Development</h3>
+<p>
+As a <strong>GoHighLevel & AI Automation Specialist</strong>, I work with CRM setup, pipelines, workflow automation, lead management, appointment booking systems, email and SMS automation, AI-powered conversation systems, and automated follow-up workflows.
+</p>
+
+<p>
+I enjoy combining modern frontend development with smart automation to create solutions that improve user experience, streamline business operations, and help businesses manage and convert leads more efficiently.
+</p>
+
+<p>
+I'm always learning, building new projects, and exploring better ways to create impactful digital solutions.
+</p>
+
+
+<h2>Skills & Technologies</h2>
+
+<h3>Frontend Development</h3>
 
 <p align="left">
 
@@ -52,7 +59,7 @@ Building modern, responsive web experiences and smart automation systems that he
   <!-- React -->
   <a href="https://react.dev/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40" alt="React"/>
-  </a> 
+  </a>
 
   <!-- Tailwind CSS -->
   <a href="https://tailwindcss.com/" target="_blank">
@@ -66,36 +73,32 @@ Building modern, responsive web experiences and smart automation systems that he
 
   <!-- Git -->
   <a href="https://git-scm.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40" alt="Git"/>
+    <img src="https://www.vectorlogo.zone/logos/git/git-scm-icon.svg" width="40" height="40" alt="Git"/>
   </a>
 
 </p>
 
-<h3 align="left">⚙️ Automation & CRM</h3>
+
+<h3>Automation & CRM</h3>
 
 <p align="left">
 
-  <!-- GoHighLevel -->
   <img src="https://img.shields.io/badge/GoHighLevel-GHL-0e75b6?style=for-the-badge" alt="GoHighLevel"/>
 
-  <!-- AI Automation -->
   <img src="https://img.shields.io/badge/AI-Automation-purple?style=for-the-badge" alt="AI Automation"/>
 
-  <!-- CRM -->
   <img src="https://img.shields.io/badge/CRM-Automation-blue?style=for-the-badge" alt="CRM Automation"/>
 
-  <!-- Workflow -->
   <img src="https://img.shields.io/badge/Workflow-Automation-green?style=for-the-badge" alt="Workflow Automation"/>
 
-  <!-- Conversation AI -->
   <img src="https://img.shields.io/badge/Conversation-AI-orange?style=for-the-badge" alt="Conversation AI"/>
 
-  <!-- Email & SMS -->
   <img src="https://img.shields.io/badge/Email%20%26%20SMS-Automation-red?style=for-the-badge" alt="Email and SMS Automation"/>
 
 </p>
 
-<h3 align="left">🎨 Design & Creative Tools</h3>
+
+<h3>Design & Creative Tools</h3>
 
 <p align="left">
 
@@ -116,30 +119,31 @@ Building modern, responsive web experiences and smart automation systems that he
 
 </p>
 
-<h2 align="left">🚀 What I Work On</h2>
 
-<p align="left">
+<h2>What I Work On</h2>
 
-🔹 Modern & Responsive Websites  
-🔹 React.js Frontend Applications  
-🔹 Landing Pages & Conversion-Focused Websites  
-🔹 GoHighLevel CRM Setup & Automation  
-🔹 AI-Powered Conversation & Lead Engagement Systems  
-🔹 Workflow & Email/SMS Automation  
-🔹 Lead Management & Pipeline Automation  
-🔹 Appointment Booking & Follow-Up Systems  
-🔹 Google Review Automation  
-🔹 Business Process Automation  
+<ul>
+  <li>Modern and responsive websites</li>
+  <li>React.js frontend applications</li>
+  <li>Landing pages and conversion-focused websites</li>
+  <li>GoHighLevel CRM setup and automation</li>
+  <li>AI-powered conversation and lead engagement systems</li>
+  <li>Workflow and email/SMS automation</li>
+  <li>Lead management and pipeline automation</li>
+  <li>Appointment booking and follow-up systems</li>
+  <li>Google Review automation</li>
+  <li>Business process automation</li>
+</ul>
 
+
+<h2>How to Reach Me</h2>
+
+<p>
+<strong>Email:</strong> nusrattrisha81@gmail.com
 </p>
 
-<h2 align="left">📫 How to Reach Me</h2>
 
-<p align="left">
-  <strong>Email:</strong> nusrattrisha81@gmail.com
-</p>
-
-<h3 align="left">🔗 Connect With Me</h3>
+<h3>Connect With Me</h3>
 
 <p align="left">
 
@@ -151,18 +155,4 @@ Building modern, responsive web experiences and smart automation systems that he
     <img src="https://img.shields.io/badge/Instagram-@nusrat_jahann1-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 
-</p>
-
-<h2 align="left">📊 GitHub Stats</h2>
-
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nusrat323&show_icons=true&locale=en&layout=compact" alt="nusrat323" />
-</p>
-
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=nusrat323&show_icons=true&locale=en" alt="nusrat323" />
-</p>
-
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nusrat323" alt="nusrat323" />
 </p>
